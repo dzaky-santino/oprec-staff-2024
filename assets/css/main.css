@@ -2656,6 +2656,9 @@ input, select, textarea {
 					border-top: solid 2px #fff;
 					width: 100%;
 				}
+				.features img {
+					display: none;
+				}
 
 					.features li:first-child {
 						border-top: 0;
